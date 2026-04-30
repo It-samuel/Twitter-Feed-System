@@ -65,6 +65,12 @@ This project demonstrates how modern systems solve that problem using:
 
 ---
 
+#  Architecture Diagram
+
+![Architecture Diagram](./docs/architecture-diagram.png)
+
+---
+
 #  System Architecture
 
 ## High-Level Architecture
@@ -598,11 +604,6 @@ Potential upgrades:
 * Circuit breaker patterns
 * Service mesh integration
 
----
-
-#  Architecture Diagram
-
-![Architecture Diagram](./docs/architecture-diagram.png)
 ---
 
 #  Author
