@@ -94,7 +94,7 @@ Prometheus → Grafana
 
 ---
 
-# ⚡ Core Features
+#   Core Features
 
 ##  User Management
 
