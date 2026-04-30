@@ -602,12 +602,7 @@ Potential upgrades:
 
 #  Architecture Diagram
 
-(Add your generated architecture diagram here)
-
-```text
-docs/architecture-diagram.png
-```
-
+![Architecture Diagram](./docs/architecture-diagram.png)
 ---
 
 #  Author
